@@ -1,0 +1,37 @@
+Conversión de Solid Edge en 3MF
+Fecha: viernes,agosto 30,2024 01:32p. m.
+Archivo de salida: C:\Users\IDEA 1.61\GIT\Brinko\MeshParts\3MF\PAN\pan-es-2x2.3mf
+Autor: FARID
+Organización: IDEA1.61
+Sistema fuente: SOLID EDGE
+
+Hardware:
+Procesador: Intel(R) Core(TM) i5-3320M CPU @ 2.60GHz
+Sistema operativo: Windows 10 Professional
+Memoria instalada: 7.82 GB
+
+Información sobre el software:
+Versión de Parasolid: 36.0.142
+Versión de PSBodyShop: 36.0.108
+Versión del adaptador 3MF: 13.0.193
+Versión de Solid Edge: 224.00.00.101 x64
+
+Opciones de exportación de 3MF
+Exportar los sólidos de construcción: Desactivado
+Exportar las piezas visualizadas: Desactivado
+Habilitar registro de anotaciones: Activado
+AllowInvalid3mfObjects:Desactivado
+Exportar conjunto en fichero plano: On
+Unidades de exportación: Millimeters
+Valor de la tolerancia de exportación:0.001000
+Tipo de tolerancia de exportación: Fine
+Valor del ángulo plano de superficie de exportación:0.523599
+Autor de exportación: FARID
+Descripción de exportación: PANEL es 2x2
+Organización de exportación: IDEA1.61
+Nombre del programa de exportación: SOLID EDGE
+
+Avance en la conversión:
+Fase 1 de 1 convirtiendo Parasolid en tipos de datos externos...
+Se completó el proceso de conversión
+Tiempo necesario para convertir:00 : 00 : 00
