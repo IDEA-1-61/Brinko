@@ -1,9 +1,9 @@
-Solid Edge Translation To obj
-Date: jueves,agosto 22,2024 01:38p. m.
-Output File: C:\Users\ideam\GIT\Brinko\MeshParts\OBJ\pan-2x3.obj
+OBJ translation to Solid Edge
+Date: jueves,octubre 17,2024 11:07a. m.
+Source File:C:\Users\ideam\GIT\Brinko\MeshParts\OBJ\pan-2x3.obj
 Author: Unknown
 Organization: Unknown
-Source System: SOLID EDGE
+Source System: DEX
 
 Hardware:
 Processor: AMD Ryzen 3 2200G with Radeon Vega Graphics    
@@ -16,19 +16,13 @@ PSBodyshop Version: 36.0.108
 OBJ Adapter Version: 13.0.209
 Solid Edge Version: 224.00.00.101 x64
 
-OBJ Export Options:
-Export Construction Solids:Off
-Export Displayed Parts:Off
-Export Construction Sheets:Off
+OBJ Import options 
+Split Groups:Off
+Heal Mesh Faults:Off
+Make Base Feature:On
 Enable Logging:On
-Export Textures:Off
-Export Flatten Assembly:On
-Export Construction Solids and Sheets if design bodies not present:Off
-Export Units:Millimeters
-Export Tolerance Value:0.001000
-Export Tolerance Type:Fine
-Export Surface Plane Angle Value:0.523599
 
 Translation progress:
+Unknown
 Translation process completed
-Time required to translate:00 : 00 : 01
+Total time required to translate and post process:00 : 00 : 01
