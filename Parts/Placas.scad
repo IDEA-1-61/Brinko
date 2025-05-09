@@ -5,9 +5,9 @@ unidad=13;
 //lonX=1.5;//espacios siempre agregará uno
 //lonY=5;//espacios siempre agregará uno
 
-lonX=7;//espacios siempre agregará uno
-lonY=9;//espacios siempre agregará uno
-lonA=0.5;
+lonX=4;//espacios siempre agregará uno
+lonY=7;//espacios siempre agregará uno
+lonA=5;
 op=0;
 $fn=100;
 
