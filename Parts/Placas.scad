@@ -5,23 +5,28 @@ unidad=13;
 //lonX=1.5;//espacios siempre agregará uno
 //lonY=5;//espacios siempre agregará uno
 
-lonX=4;//espacios siempre agregará uno
-lonY=7;//espacios siempre agregará uno
-lonA=5;
-op=0;
+//placas HB lonX 4 y LonY 7
+//placas HBT1 op 2 lonX 2 y LonY 7 lonA 1.5
+//placas HBT2 op 2 lonX 2 y LonY 7 lonA 1.25
+lonX=1.5;//espacios siempre agregará uno
+lonY=6;//espacios siempre agregará uno
+//lonA=1.5;
+lonA=0.5;
+op=2;
 $fn=100;
+espesor=0.6;
 
 
 difference(){
     
     minkowski(){
         if(op==0){
-           cube([lonX*unidad,lonY*unidad,0.4]); 
+           cube([lonX*unidad,lonY*unidad,espesor]); 
         }else if(op==1){
-             linear_extrude(height=0.4)
+             linear_extrude(height=espesor)
         polygon([[0,0],[lonX*unidad,0],[0,lonY*unidad]]);
         }else if(op==2){
-            linear_extrude(height=0.4)
+            linear_extrude(height=espesor)
         polygon([[-lonX*unidad,0],[lonX*unidad,0],[lonA*unidad,lonY*unidad],[-lonA*unidad,lonY*unidad]]);
         }
        
